@@ -45,6 +45,7 @@ Our second step is much easier.  We simply remove all fields of data pertaining 
 ---
 ## How our data looks
 ---
+[Preliminary EDA](https://public.tableau.com/profile/mac.chan#!/vizhome/LeagueData/Dashboard1)
 | blue team first kill | player 1 character | player 1 spells | ... | player 10 spells |
 |----------------------|--------------------|-----------------|-----|------------------|
 | 1                    | some string        | some string     | ... | some string      |
